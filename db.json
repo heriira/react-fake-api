@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Heri",
+      "alamat": "Sumedang"
+    },
+    {
+      "id": 2,
+      "nama": "Irawan",
+      "alamat": "Bandung"
+    },
+    {
+      "id": 3,
+      "nama": "Indah",
+      "alamat": "Sumedang"
+    },
+    {
+      "id": 4,
+      "nama": "Heri",
+      "alamat": "Sumedang"
+    },
+    {
+      "id": 5,
+      "nama": "Irawan",
+      "alamat": "Bandung"
+    },
+    {
+      "id": 6,
+      "nama": "Indah",
+      "alamat": "Sumedang"
+    },
+    {
+      "id": 7,
+      "nama": "Heri",
+      "alamat": "Sumedang"
+    },
+    {
+      "id": 8,
+      "nama": "Irawan",
+      "alamat": "Bandung"
+    },
+    {
+      "id": 9,
+      "nama": "Indah",
+      "alamat": "Sumedang"
+    },
+    {
+      "id": 10,
+      "nama": "Heri",
+      "alamat": "Sumedang"
+    },
+    {
+      "id": 11,
+      "nama": "Irawan",
+      "alamat": "Bandung"
+    },
+    {
+      "id": 12,
+      "nama": "Indah",
+      "alamat": "Sumedang"
+    }
+  ]
+}
